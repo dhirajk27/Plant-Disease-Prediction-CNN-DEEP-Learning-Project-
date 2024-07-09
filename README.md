@@ -42,14 +42,14 @@ source venv/bin/activate
 pip install -r app/requirements.txt
 ```
 
-##Data Preparation
+## Data-Preparation
 1.Download the Dataset:
 Download a plant disease dataset. You can use the PlantVillage dataset or any other dataset available online.
 
 2.Organize the Dataset:
 Place the dataset in the data directory. Ensure the data is organized in subdirectories, each representing a different class of disease.
 
-##Model Training
+## Model Training
 1.Navigate to the Source Directory:
 ```bash
 cd src
@@ -61,12 +61,12 @@ python train.py
 ```
 This script will train the CNN model on the dataset and save the trained model to the models directory.
 
-##Model Evaluation
+## Model Evaluation
 
 1.Evaluate the Model:
 You can evaluate the trained model using the test dataset by running the evaluation code in the `notebooks` directory or by extending the `train.py` script to include evaluation metrics.
 
-##Running the Application
+## Running the Application
 
 1.Navigate to the Application Directory:
 ```bash
