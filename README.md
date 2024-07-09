@@ -5,3 +5,9 @@ Kaggle Dataset Link: https://www.kaggle.com/datasets/abdallahalidev/plantvillage
 
 Trained Model Link: [[https://drive.google.com/file/d/1i466c4XOs048Q54EPCqgzoG8zWcARnrj/view?usp=sharing](https://drive.google.com/file/d/1rKh-IElSdHTqax7XdfSdZTn-r8T_qWPf/view?usp=sharing)](https://drive.google.com/file/d/1rKh-IElSdHTqax7XdfSdZTn-r8T_qWPf/view?usp=drive_link)https://drive.google.com/file/d/1rKh-IElSdHTqax7XdfSdZTn-r8T_qWPf/view?usp=drive_link
 
+Installation
+1.Clone the Repository:
+
+git clone https://github.com/dhirajk27/Plant-Disease-Prediction-CNN-DEEP-Learning-Project-.git
+cd Plant-Disease-Prediction-CNN-DEEP-Learning-Project-
+
