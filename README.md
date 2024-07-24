@@ -9,7 +9,6 @@ This repository is about building an Image classifier CNN with Python on Plant D
 ## Table of Contents
 - [Installation](#installation)
 - [Data Preparation](#data-preparation)
-- [Model Training](#model-training)
 - [Model Evaluation](#model-evaluation)
 - [Running the Application](#running-the-application)
 - [References](#references)
