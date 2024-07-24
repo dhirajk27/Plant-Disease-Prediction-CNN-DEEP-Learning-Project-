@@ -49,18 +49,6 @@ Download a plant disease dataset. You can use the PlantVillage dataset or any ot
 2.Organize the Dataset:
 Place the dataset in the data directory. Ensure the data is organized in subdirectories, each representing a different class of disease.
 
-## Model Training
-1.Navigate to the Source Directory:
-```bash
-cd src
-```
-
-2.Run the Training Script:
-```bash
-python train.py
-```
-This script will train the CNN model on the dataset and save the trained model to the models directory.
-
 ## Model Evaluation
 
 1.Evaluate the Model:
